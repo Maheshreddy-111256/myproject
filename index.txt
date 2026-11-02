@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-"Main Version" 
-=======
-"Feature Version" 
->>>>>>> feature1
+Main Version
+Feature Version
